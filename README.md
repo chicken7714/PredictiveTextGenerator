@@ -8,7 +8,7 @@ Use "make" to compile the program, and then use
 
  ./main Socrates.txt
  
-to run the program.
+to run the program with Plato's "Apology" as the seed text.
 
 ## Modifications
 
